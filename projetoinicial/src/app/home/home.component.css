@@ -1,0 +1,15 @@
+.container{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.logo{
+    background-color: #171810;
+    
+}
+.botao{
+    width: 10%;
+    position: static;
+}
